@@ -1,0 +1,17 @@
+{
+    "scm.alwaysShowActions": false,
+    "scm.alwaysShowRepositories": true,
+    "scm.providerCountBadge": "hidden",
+    "scm.inputFontSize": 15,
+    "git-buttons.showGitCheckout": true,
+    "git-buttons.showGitCleanAll": true,
+    "git-buttons.showGitCommitAll": true,
+    "git-buttons.showGitCommitAllAmend": true,
+    "git-buttons.showGitCommitAllSigned": true,
+    "git-buttons.showGitCommitStaged": true,
+    "git-buttons.showGitCommitStagedAmend": true,
+    "git-buttons.showGitCommitStagedSigned": true,
+    "git-buttons.showGitPublish": true,
+   
+    
+}
